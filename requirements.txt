@@ -1,0 +1,7 @@
+kafka-python
+sseclient-py
+requests
+redis
+fastapi
+uvicorn[standard]
+rich
