@@ -63,8 +63,8 @@
 
 1.  **Клонируйте репозиторий**
     ```bash
-    git clone <URL вашего репозитория>
-    cd <название папки проекта>
+    git clone https://github.com/IntroSpace/Wikimedia_Analytics
+    cd Wikimedia_Analytics
     ```
 
 2.  **Сделайте скрипт `run.sh` исполняемым**
